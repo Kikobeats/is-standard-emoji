@@ -1,5 +1,7 @@
 # is-standard-emoji
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/is-standard-emoji.svg)](https://greenkeeper.io/)
+
 [![Build Status](http://img.shields.io/travis/Kikobeats/is-standard-emoji/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/is-standard-emoji)
 [![Dependency status](http://img.shields.io/david/Kikobeats/is-standard-emoji.svg?style=flat-square)](https://david-dm.org/Kikobeats/is-standard-emoji)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/is-standard-emoji.svg?style=flat-square)](https://david-dm.org/Kikobeats/is-standard-emoji#info=devDependencies)
