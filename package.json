@@ -1,6 +1,6 @@
 {
   "name": "is-standard-emoji",
-  "description": "Simply way to check if a emoji is a standard emoji.",
+  "description": "Check whether a word or shortcut is a standard emoji shortcode (e.g. smile, heart, thumbsup).",
   "homepage": "https://github.com/Kikobeats/is-standard-emoji",
   "version": "1.0.0",
   "main": "./index.js",
@@ -9,11 +9,25 @@
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/is-standard-emoji",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kikobeats/is-standard-emoji.git"
+  },
   "bugs": {
     "url": "https://github.com/Kikobeats/is-standard-emoji/issues"
   },
-  "keywords": ["emoji", "standard"],
+  "keywords": [
+    "emoji",
+    "standard",
+    "shortcut",
+    "shortcode",
+    "unicode",
+    "check",
+    "validate",
+    "emoticon",
+    "smile",
+    "is"
+  ],
   "dependencies": {
     "emojis-list": "~3.0.0"
   },
